@@ -746,7 +746,7 @@ The objective is to create a connected digital ecosystem that supports stronger 
 <a href="https://campusiq-portal.lalithkrish.dev/">
 <img src="https://img.shields.io/badge/Live%20Platform-CampusIQ-2563EB?style=for-the-badge" alt="Live Platform">
 </a>
-<a href="https://github.com/Krish06-0/CampusIQ">
+<a href="https://github.com/Lalithkrish06/CampusIQ-Portal">
   <img src="https://img.shields.io/badge/GitHub%20Repository-CampusIQ-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
 </a>
 <a href="https://lalithkrish.dev/">
