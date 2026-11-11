@@ -46,7 +46,8 @@ A unified digital ecosystem for academic communities and career development.
 <br>
 
 
-<img width="853" height="1280" alt="WhatsApp Image 2026-11-11 at 8 58 24 PM" src="https://github.com/user-attachments/assets/14f394e5-991b-4cd8-88cd-9f6d45e20580" />
+<img width="853" height="1280" alt="WhatsApp Image 2026-11-11 at 9 34 28 PM" src="https://github.com/user-attachments/assets/1639eaa0-3e69-43bb-bd79-d346c86ad952" />
+
 
 -->
 
